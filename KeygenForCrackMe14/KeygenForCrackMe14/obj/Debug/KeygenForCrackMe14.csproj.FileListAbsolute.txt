@@ -1,0 +1,10 @@
+C:\Users\redbe\source\repos\KeygenForCrackMe14\KeygenForCrackMe14\bin\Debug\KeygenForCrackMe14.exe.config
+C:\Users\redbe\source\repos\KeygenForCrackMe14\KeygenForCrackMe14\bin\Debug\KeygenForCrackMe14.exe
+C:\Users\redbe\source\repos\KeygenForCrackMe14\KeygenForCrackMe14\bin\Debug\KeygenForCrackMe14.pdb
+C:\Users\redbe\source\repos\KeygenForCrackMe14\KeygenForCrackMe14\obj\Debug\KeygenForCrackMe14.csprojAssemblyReference.cache
+C:\Users\redbe\source\repos\KeygenForCrackMe14\KeygenForCrackMe14\obj\Debug\KeygenForCrackMe14.KeygenForCrackMe14.resources
+C:\Users\redbe\source\repos\KeygenForCrackMe14\KeygenForCrackMe14\obj\Debug\KeygenForCrackMe14.Properties.Resources.resources
+C:\Users\redbe\source\repos\KeygenForCrackMe14\KeygenForCrackMe14\obj\Debug\KeygenForCrackMe14.csproj.GenerateResource.cache
+C:\Users\redbe\source\repos\KeygenForCrackMe14\KeygenForCrackMe14\obj\Debug\KeygenForCrackMe14.csproj.CoreCompileInputs.cache
+C:\Users\redbe\source\repos\KeygenForCrackMe14\KeygenForCrackMe14\obj\Debug\KeygenForCrackMe14.exe
+C:\Users\redbe\source\repos\KeygenForCrackMe14\KeygenForCrackMe14\obj\Debug\KeygenForCrackMe14.pdb
