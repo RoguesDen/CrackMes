@@ -12,6 +12,11 @@ namespace KeygenForCrackMe14
         {
             InitializeComponent();
         }
+        
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
 
         private void Crack_Click(object sender, EventArgs e)
         {
